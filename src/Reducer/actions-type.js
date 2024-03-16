@@ -1,0 +1,6 @@
+export const ADD_TO_TASK_LIST = "ADD_TO_TASKLIST";
+export const EDIT_TASK = "EDIT_TASK";
+export const DELETE_TASK = "DELETE_TASK";
+export const SEARCH_TASK = "SEARCH_TASK";
+export const DELETE_ALL_TASK = "DELETE_ALL_TASK";
+export const FAVORITE_OR_NOT_FAVORITE = "FAVORITE_OR_NOT_FAVORITE";
