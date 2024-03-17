@@ -1,4 +1,5 @@
 import { ADD_TO_TASK_LIST, DELETE_ALL_TASK, DELETE_TASK, EDIT_TASK, FAVORITE_OR_NOT_FAVORITE, SEARCH_TASK } from "./actions-type";
+// Reducer 
 
 
 const TaskReducer = (state, action) => {
